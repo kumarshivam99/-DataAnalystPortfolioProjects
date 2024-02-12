@@ -6,5 +6,5 @@
 Sales report of ATLIQ company. <br />
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/shivam.kumar8742/viz/SalesdataofATLIQcompany/Dashboard1?publish=yes)**
 
-![Sales report of ATLIQ](visual/ATLIQ project.PNG)  
+![Sales report of ATLIQ](visual/ATLIQ%20project.PNG)  
 
