@@ -8,3 +8,11 @@
 
 ![Sales report of ATLIQ](visual/ATLIQ%20project.PNG)  
 
+
+- [x] **Python** - 
+  - Student Performance in exam Dataset: Exploratory Data Analysis Project <br />
+*Read the complete Project Analysis:* **[HERE](https://github.com/kumarshivam99/EDA_using_python/blob/main/EDA_Students_Performance_Indicator.ipynb)**<br />
+
+*A snippet of the project given below:*
+
+![Some snippet](visual/Student_performance_EDA.PNG)
