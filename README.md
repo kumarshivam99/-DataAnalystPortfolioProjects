@@ -21,3 +21,12 @@
 *A snippet of the project given below:*
 
 ![Some snippet](visual/Student_performance_EDA.PNG)
+
+- [x] **Excel** - 
+
+*Download the Excel files from repository and open them using Microsoft Excel for viewing and analysis.*
+
+
+- Bike Sales Report: Sales Analysis Dashboard [HERE](https://github.com/kumarshivam99/Excel-Project) <br />
+
+![Dashboard](visual/Bike%20sales%20dataset.PNG)
