@@ -14,6 +14,11 @@
 ![Sales report of ATLIQ](visual/ATLIQ%20project.PNG)  
 
 
+- [x] **SQL** - 
+  - Music Store Dataset: Data Analysis <br />
+*Review the SQL Script:* **[HERE](https://github.com/kumarshivam99/SQL_project/blob/main/Music%20_store_queries.sql)**<br />
+
+
 - [x] **Python** - 
   - Student Performance in exam Dataset: Exploratory Data Analysis Project <br />
 *Read the complete Project Analysis:* **[HERE](https://github.com/kumarshivam99/EDA_using_python/blob/main/EDA_Students_Performance_Indicator.ipynb)**<br />
