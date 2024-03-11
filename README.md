@@ -15,8 +15,11 @@
 
 
 - [x] **SQL** - 
-  - Music Store Dataset: Data Analysis <br />
+1. Music Store Dataset: Data Analysis <br />
 *Review the SQL Script:* **[HERE](https://github.com/kumarshivam99/SQL_project/blob/main/Music%20_store_queries.sql)**<br />
+
+2. Faasos Dataset: Data Analysis <br />
+*Review the SQL Script:* **[HERE](https://github.com/kumarshivam99/SQL_project/blob/main/fassos_dataset_queries.sql)**<br />
 
 
 - [x] **Python** - 
