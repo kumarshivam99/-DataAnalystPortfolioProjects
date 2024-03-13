@@ -30,6 +30,14 @@
 
 ![Some snippet](visual/Student_performance_EDA.PNG)
 
+- [x] **Power BI** - <br />
+1. Local Mart Sales Dashboard. <br />
+*Download the file:* **[Here](https://github.com/kumarshivam99/PowerBI-Projects/blob/main/Local_Mart_Sales_Dashboard.pbix)**
+
+![Local Mart Sales Dashboard Review](https://github.com/kumarshivam99/DataAnalystPortfolioProjects/blob/main/visual/Local_Mart_Sales.PNG)
+
+
+
 - [x] **Excel** - 
 
 *Download the Excel files from repository and open them using Microsoft Excel for viewing and analysis.*
