@@ -30,6 +30,13 @@
 
 ![Some snippet](visual/Student_performance_EDA.PNG)
 
+- Flight Price Prediction Dataset: Exploratory Data Analysis Project <br />
+*Read the complete Project Analysis:* **[HERE](https://github.com/kumarshivam99/EDA_using_python/blob/main/Flight_Price_Prediction.ipynb)**<br />
+
+*A snippet of the project given below:*
+
+![Some snippet](visual/Flight_price_EDA.PNG)
+
 - [x] **Power BI** - <br />
 1. Local Mart Sales Dashboard. <br />
 *Download the file:* **[Here](https://github.com/kumarshivam99/PowerBI-Projects/blob/main/Local_Mart_Sales_Dashboard.pbix)**
